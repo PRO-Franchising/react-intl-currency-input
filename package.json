@@ -64,7 +64,6 @@
   },
   "homepage": "https://github.com/thiagozanetti/react-intl-currency-input#readme",
   "engines": {
-    "node": "18",
     "npm": "9"
   },
   "workspaces": [

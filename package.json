@@ -1,5 +1,5 @@
 {
-  "name": "react-intl-currency-input",
+  "name": "@profranchising/react-intl-currency-input",
   "version": "0.3.3",
   "description": "A React component for i18n currency input using the Intl API.",
   "type": "module",
@@ -57,7 +57,6 @@
     "input",
     "vite"
   ],
-  "author": "Thiago Zanetti <thiago.project@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thiagozanetti/react-intl-currency-input/issues"

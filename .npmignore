@@ -2,7 +2,6 @@
 .turbo/
 .vscode/
 .vercel/
-dist/
 app/
 node_modules/
 lib/

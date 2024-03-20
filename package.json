@@ -1,11 +1,11 @@
 {
   "name": "@profranchising/react-intl-currency-input",
-  "version": "0.3.3",
+  "version": "0.4.2",
   "description": "A React component for i18n currency input using the Intl API.",
   "type": "module",
-  "main": "index.cjs",
-  "module": "index.js",
-  "types": "index.d.ts",
+  "main": "dist/lib/index.cjs",
+  "module": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
   "scripts": {
     "start:app": "vite app --port 3000 --host 0.0.0.0 --open",
     "lint": "tsc",
